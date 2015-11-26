@@ -13,4 +13,8 @@ Sample Rest API using Express & node.js & MySQL
 
 - environment setting
 
+export NODE_ENV=development
+or
+export NODE_ENV=production
+
 
