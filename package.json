@@ -1,0 +1,19 @@
+{
+  "name": "berio-api",
+  "version": "1.0.0",
+  "description": "REST API for berio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ashibuya",
+  "license": "ISC",
+  "dependencies": {
+    "cloneextend": "*",
+    "express": ">= 4.13.x",
+    "memoizee": "0.2.6",
+    "mysql": ">= 2.9.x",
+    "debug": ">= 2.2.x"
+  }
+}
